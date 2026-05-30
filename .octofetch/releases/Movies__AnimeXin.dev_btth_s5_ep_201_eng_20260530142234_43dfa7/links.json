@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2778",
+  "folder": "Movies__AnimeXin.dev_btth_s5_ep_201_eng_20260530142234_43dfa7",
+  "base_name": "Movies__AnimeXin.dev_btth_s5_ep_201_eng_20260530142234_43dfa7.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-5/releases/tag/co-releases-v1-2778",
+  "files": [
+    {
+      "name": "Movies__AnimeXin.dev_btth_s5_ep_201_eng_20260530142234_43dfa7.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-5/releases/download/co-releases-v1-2778/Movies__AnimeXin.dev_btth_s5_ep_201_eng_20260530142234_43dfa7.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-5/releases/assets/433830526",
+      "id": 433830526,
+      "size": 751211685,
+      "download_count": 0
+    }
+  ]
+}
